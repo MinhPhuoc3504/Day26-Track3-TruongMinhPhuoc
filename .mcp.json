@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\admin\\VINUNI\\Day26-Track3-MCP-tool-integration\\implementation\\mcp_server.py"
+      ],
+      "description": "SQLite Lab MCP Server - Student: Truong Minh Phuoc (2A202600330)"
+    }
+  }
+}
